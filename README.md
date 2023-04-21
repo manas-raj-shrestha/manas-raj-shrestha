@@ -1,8 +1,9 @@
-###  Hey! Nice to see you.
+###  Namaste (नमस्ते) 🙏🏽
 
-Namaste (नमस्ते),
 I'm Manas, Mobile developer from  Kathmandu, Nepal. 
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!--
 **manas-raj-shrestha/manas-raj-shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
