@@ -9,7 +9,7 @@ In the overview below you will find my most recent work experience:
 
 **Lead Engineer** \
 [**Leapfrog Technology**](https://www.lftechnology.com/) • Full-time \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
+Languages & Technologies: `Android`, `Java`, `React Native`, `Flutter` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/lflogo.png?raw=true"/>](https://warpnet.nl/)
