@@ -7,4 +7,4 @@ I'm Manas, Mobile developer from  Kathmandu, Nepal.
 [![Gmail Badge](https://img.shields.io/badge/-manas.shtha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manas.shtha@gmail.com)](mailto:manas.shtha@gmail.com)
 
 
-![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas-raj-shrestha&count_private=true)
+![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas-raj-shrestha&count_private=true&show_icons=true&theme=radical)
