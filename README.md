@@ -33,7 +33,6 @@ Languages & Technologies: `Android`, `Java`, `React Native`, `Flutter` \
 [**4th-Valley**](https://www.4th-valley.com) • Contract \
 Languages & Technologies: `Flutter` \
 <br/>
-<br/>
 
 -----
 
