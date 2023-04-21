@@ -1,4 +1,7 @@
-### Hi there 👋
+###  Hey! Nice to see you.
+
+Namaste (नमस्ते),
+I'm Manas, Mobile developer from  Kathmandu, Nepal. 
 
 <!--
 **manas-raj-shrestha/manas-raj-shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
