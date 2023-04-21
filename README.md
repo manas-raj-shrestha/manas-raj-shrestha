@@ -5,14 +5,14 @@ I'm Manas, Mobile developer from  Kathmandu, Nepal.
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Leapforg" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/lflogo.png?raw=true"/>](https://www.lftechnology.com/)
+[<img align="left" height="94px" width="94px" alt="Leapforg" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/lflogo.png"/>](https://www.lftechnology.com/)
 
 **Lead Engineer** \
 [**Leapfrog Technology**](https://www.lftechnology.com/) • Full-time \
 Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/manar-raj-shrestha/manas-raj-shrestha/lflogo.png?raw=true"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/lflogo.png?raw=true"/>](https://warpnet.nl/)
 
 **Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
 [**Warpnet**](https://warpnet.nl/) • Full-time \
