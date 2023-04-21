@@ -6,4 +6,5 @@ I'm Manas, Mobile developer from  Kathmandu, Nepal.
 [![Medium Badge](https://img.shields.io/badge/-@manasshrestha-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@manas-shrestha)](https://medium.com/@manas-shrestha)
 [![Gmail Badge](https://img.shields.io/badge/-manas.shtha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manas.shtha@gmail.com)](mailto:manas.shtha@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas-raj-shrestha&hide=contribs,prs)
+
+![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas-raj-shrestha&count_private=true)
