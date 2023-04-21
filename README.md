@@ -8,7 +8,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
 
 **Lead Engineer** \
-[**KPN**](https://www.lftechnology.com/) • Contract \
+[**Leapfrog Technology**](https://www.lftechnology.com/) • Full-time \
 Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
 <br/>
 
