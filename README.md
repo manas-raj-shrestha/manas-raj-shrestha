@@ -8,7 +8,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="S'more" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/blob/main/smore.png"/>]([https://duo.nl/](https://www.smore-pets.com))
 
 **Mobile Lead** \
-[**S'more**](https://www.smore-pets.com) • Contract \
+[**S'more**](https://www.smore-pets.com) • Full-time \
 Languages & Technologies: `Flutter` \
 <br/>
 
@@ -22,7 +22,7 @@ Languages & Technologies: `Android`, `Java`, `React Native`, `Flutter` \
 [<img align="left" height="94px" width="94px" alt="4th-Valley" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/blob/main/fourthvalleylogo.jpeg"/>](https://www.4th-valley.com)
 
 **Mobile Developer** \
-[**4th-Valley**](https://www.4th-valley.com) • Full-time \
+[**4th-Valley**](https://www.4th-valley.com) • Contract \
 Languages & Technologies: `Flutter` \
 <br/>
 <br/>
