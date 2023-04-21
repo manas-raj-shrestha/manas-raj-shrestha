@@ -12,7 +12,7 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `Android`, `Java`, `React Native`, `Flutter` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/fourthvalleylogo.jpeg?raw=true"/>](https://www.4th-valley.com)
+[<img align="left" height="94px" width="94px" alt="4th-Valley" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/fourthvalleylogo.jpeg"/>](https://www.4th-valley.com)
 
 **Mobile Developer** \
 [**4th-Valley**](https://www.4th-valley.com) • Full-time \
