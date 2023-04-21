@@ -2,6 +2,8 @@
 
 I'm Manas, Mobile developer from  Kathmandu, Nepal. 
 
+-----
+
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
