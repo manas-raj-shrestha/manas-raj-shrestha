@@ -5,6 +5,13 @@ I'm Manas, Mobile developer from  Kathmandu, Nepal.
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
+[<img align="left" height="94px" width="94px" alt="S'more" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/blob/main/smore.png"/>]([https://duo.nl/](https://www.smore-pets.com))
+
+**Mobile Lead** \
+[**S'more**](https://www.smore-pets.com) • Contract \
+Languages & Technologies: `Flutter` \
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Leapforg" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/blob/main/lflogo.png"/>](https://www.lftechnology.com/)
 
 **Lead Engineer** \
@@ -16,13 +23,6 @@ Languages & Technologies: `Android`, `Java`, `React Native`, `Flutter` \
 
 **Mobile Developer** \
 [**4th-Valley**](https://www.4th-valley.com) • Full-time \
-Languages & Technologies: `Flutter` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="S'more" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/blob/main/smore.png"/>]([https://duo.nl/](https://www.smore-pets.com))
-
-**Mobile Lead** \
-[**S'more**]([S'more](https://www.smore-pets.com)) • Contract \
 Languages & Technologies: `Flutter` \
 <br/>
 <br/>
