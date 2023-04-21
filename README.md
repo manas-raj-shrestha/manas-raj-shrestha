@@ -12,12 +12,11 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `Android`, `Java`, `React Native`, `Flutter` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/lflogo.png?raw=true"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/fourthvalleylogo.jpeg?raw=true"/>](https://www.4th-valley.com)
 
-**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+**Mobile Developer** \
+[**4th-Valley**](https://www.4th-valley.com) • Full-time \
+Languages & Technologies: `Flutter` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
