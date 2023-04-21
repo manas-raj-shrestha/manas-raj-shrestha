@@ -19,11 +19,11 @@ Languages & Technologies: `Android`, `Java`, `React Native`, `Flutter` \
 Languages & Technologies: `Flutter` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
+[<img align="left" height="94px" width="94px" alt="S'more" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/blob/main/smore.png"/>]([https://duo.nl/](https://www.smore-pets.com))
 
-**DevOps Engineer** \
-[**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+**Mobile Lead** \
+[**S'more**]([S'more](https://www.smore-pets.com)) • Contract \
+Languages & Technologies: `Flutter` \
 <br/>
 <br/>
 
