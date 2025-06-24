@@ -34,4 +34,5 @@ Languages & Technologies: `Flutter` \
 
 -----
 
-![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas-raj-shrestha&count_private=true&show_icons=true&theme=radical)
+![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas-raj-shrestha&count_private=true&show_icons=true&theme=radical&cache_seconds=1)
+
