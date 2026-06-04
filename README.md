@@ -13,7 +13,7 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="S'more" src="https://github.com/manas-raj-shrestha/manas-raj-shrestha/blob/main/smore.png"/>]([https://duo.nl/](https://www.smore-pets.com))
 
-**Mobile Lead** \
+**Mobile Developer** \
 [**S'more**](https://www.smore-pets.com) • Full-time \
 Languages & Technologies: `Flutter` \
 <br/>
